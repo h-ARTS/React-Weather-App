@@ -6,4 +6,4 @@ const Example = props => {
     );
 };
 
-module.exports = Example;
+export default Example;
