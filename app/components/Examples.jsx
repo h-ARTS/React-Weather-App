@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
 
-const Example = props => {
+const Examples = props => {
     return(
         <div>
             <h1 className="text-center">Examples</h1>
@@ -18,4 +18,4 @@ const Example = props => {
     );
 };
 
-export default Example;
+export default Examples;
